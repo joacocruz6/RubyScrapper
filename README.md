@@ -1,6 +1,8 @@
 # Ruby Scrapper
  Personal project to start a ruby scrapper
- Testing doc: http://rubytutorial.wikidot.com/unit-testing
+
+ Testing doc: https://www.rubydoc.info/gems/test-unit/3.1.8
+
   Intro Video: https://www.youtube.com/watch?v=b3CLEUBdWwQ
 ## Tools Used
 - Nokogiri (nokogiri gem)
