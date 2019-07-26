@@ -10,4 +10,4 @@
 - byebug (debuger gem)
 - unittesting
 # Objective
-The objective is to understand how to make a scrapper of pages with ruby, to make a good and usefull software this way on the future.
+The objective is to understand how to make a scrapper of pages with ruby, to make a good and usefull software this way on the future. So for now it's just a play scrapper on ruby

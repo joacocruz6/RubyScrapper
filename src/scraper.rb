@@ -8,3 +8,5 @@ def scraper(url)
   # we now got the html to a format that we can access the data from
   byebug #a debug thing to see the variables
 end
+myUrl = "https://facebook.com/"
+scraper(myUrl)
