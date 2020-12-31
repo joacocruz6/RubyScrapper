@@ -10,7 +10,7 @@ GEM
     mime-types-data (3.2018.0812)
     mini_portile2 (2.4.0)
     multi_xml (0.6.0)
-    nokogiri (1.10.2)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     power_assert (1.1.4)
     test-unit (3.3.1)
